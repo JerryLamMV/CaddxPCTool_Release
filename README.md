@@ -1,2 +1,2 @@
 # CaddxPCTool_Release
-Caddx pc tool release version download address, used for upgrading the caddx high-definition image transmission system
+Caddx PC Tool for Windows – Firmware Upgrade Utility for Caddx HD Video Transmission Systems
